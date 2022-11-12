@@ -1,0 +1,12 @@
+
+.el-aside {
+  padding: 20px;
+  background-color: #f8f8f8;
+  color: #333;
+  text-align: center;
+  line-height: 40px;
+}
+.input-remote textarea {
+  background: #f8f8f8 !important;
+}
+
